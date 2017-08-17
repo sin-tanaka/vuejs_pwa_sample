@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cropchat
 
 > https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402
@@ -25,3 +26,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuejs_pwa_sample
+Vue.jsでPWAをやってみるサンプル  https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402  の写経
+>>>>>>> origin/master
